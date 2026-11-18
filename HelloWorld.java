@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Welcome to Jenkins Automation!");
 
         System.out.println("Build Successful!");
+        System.out.println("This is my second Jenkins build!");
 
     }
 }
